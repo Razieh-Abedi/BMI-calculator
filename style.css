@@ -5,3 +5,16 @@ input[type="number"]::-webkit-outer-spin-button {
   opacity: 0;
   margin: 0;
 }
+/* Footer */
+footer {
+  height: 10rem;
+}
+.footer-site-credit {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  padding-top: 9rem;
+  margin: auto;
+  display: block;
+  width: 50%;
+}
